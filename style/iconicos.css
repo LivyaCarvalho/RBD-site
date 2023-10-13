@@ -1,0 +1,43 @@
+@import url(fontes.css);
+@import url(menu.css);
+@import url(rodape.css);
+
+main {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 2%;
+}
+
+.caixa {
+    margin-top: 70px;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    padding: 10px;
+    font-family: 'Poppinsbold';
+}
+
+.alvorada {
+    margin: 0 80px 20px 80px;
+}
+
+.imagens {
+    text-align: center;
+}
+
+.imagens1 {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.tamanho {
+    width: 48%;
+    margin-left: 8%;
+    
+}
+

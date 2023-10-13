@@ -1,0 +1,30 @@
+@import url(fontes.css);
+@import url(menu.css);
+@import url(rodape.css);
+
+h3 {
+font-size: 28px;
+font-family: 'Poppinsbold';
+}
+
+body div.elenco {
+    margin-top: 60px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+body div.grupo {
+    display: flex;
+    height: 500px;
+    margin-bottom: 20px;
+}
+
+body div.resumo {
+    padding: 100px;
+    text-align: center;   
+}
+
+.cor {
+    background-color: red;
+    color: white;
+}

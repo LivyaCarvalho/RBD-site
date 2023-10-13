@@ -1,0 +1,65 @@
+@import url(fontes.css);
+@import url(menu.css);
+@import url(rodape.css);
+
+main {
+    margin: 100px 15% 0 15%;  
+}
+
+h3 {
+    font-size: larger;
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin-bottom: 5px; 
+    width: 450px;
+}
+
+ol {
+    margin-left: 20px;
+}
+
+.bloco {
+    display: flex;
+    justify-content: center; 
+    margin: 0 0 40px 0;
+    gap: 5%; 
+}
+
+.bloco1 {
+    display: flex;
+    justify-content: center; 
+    gap: 5%; 
+}
+
+.album {
+    width: 450px;
+    height: 450px;
+}
+
+.musicas {
+    height: 450px;
+    width: 450px;
+    margin: 1.5% 0 0 0;   
+}
+
+.musica1 {
+    height: 450px;
+    width: 450px; 
+}
+
+.resumo {
+    width: 450px;
+    margin-bottom: 10px;
+}
+
+.dividir {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 8px;
+}
+
+iframe {
+    margin-top: 15px;
+}

@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Rebelde' ;
+    src: url(../font/Base\ 02.ttf) format('truetype');   
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(../font/Poppins-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppinsbold';
+    src: url(../font/Poppins-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppinsmedium';
+    src: url(../font/Poppins-Medium.ttf);
+}
